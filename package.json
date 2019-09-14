@@ -1,0 +1,23 @@
+{
+  "name": "server-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ping-pong.js",
+  "scripts": {
+    "start": "node ping-pong.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piasoy/server-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piasoy/server-exercises/issues"
+  },
+  "homepage": "https://github.com/piasoy/server-exercises#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
