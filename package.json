@@ -4,7 +4,7 @@
   "description": "",
   "main": "ping-pong.js",
   "scripts": {
-    "start": "node ping-pong.js",
+    "start": "node counting.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
